@@ -1,14 +1,12 @@
 /*  your css code here. If applicable */
 #first{
 	display : inline;
-	color : red;
-	font-weight : bold;
+	color : rgb(255, 0, 0);
 }
 #second{
 	display : inline;
 }
 #third{
 	display : inline;
-	color : red;
-	font-weight : bold;
+	color : rgb(255, 0, 0);
 }
