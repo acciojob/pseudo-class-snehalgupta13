@@ -1,12 +1,7 @@
 /*  your css code here. If applicable */
-#first{
-	display : inline;
-	color : rgb(255, 0, 0);
+p:first-line{
+	color:rgb(255, 0, 0);
 }
-#second{
-	display : inline;
-}
-#third{
-	display : inline;
-	color : rgb(255, 0, 0);
+p:last-child{
+	color:rgb(255, 0, 0);
 }
