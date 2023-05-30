@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#first{
+	display : inline;
+	color : red;
+	font-weight : bold;
+}
+#second{
+	display : inline;
+}
+#third{
+	display : inline;
+	color : red;
+	font-weight : bold;
+}
